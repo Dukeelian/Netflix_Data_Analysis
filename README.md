@@ -33,7 +33,7 @@
 
 Clone this repository:
 
-git clone https://github.com/Duleelian/Netflix_Data_Analysis.git
+git clone https://github.com/Dukeelian/Netflix_Data_Analysis.git
 
 Navigate to the project directory:
 
