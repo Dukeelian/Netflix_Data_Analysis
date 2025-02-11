@@ -37,11 +37,11 @@ git clone https://github.com/Dukeelian/Netflix_Data_Analysis.git
 
 Navigate to the project directory:
 
-cd your-repo
+cd yNetflix_Data_Analysis
 
 Run the script:
 
-python script.py
+python Project.py
 
 Author
 
